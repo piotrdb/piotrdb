@@ -1,5 +1,5 @@
 <h1 align="center">Heyy 👋, I'm Piotr</h1>
-<h3 align="center">A CS Engineer from Poland, Poznań</h3>
+<h3 align="center">An CS Engineer from Poland, Poznań</h3>
 
 - 🔭 I’m currently working on **React Native workout application**
 
